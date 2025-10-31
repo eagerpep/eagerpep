@@ -1,4 +1,5 @@
 ## Hi there 👋
+![Urara](https://github.com/user-attachments/assets/9a3f94c9-db9a-41be-960b-f45a78fd6db7)
 
 <!--
 **eagerpep/eagerpep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
