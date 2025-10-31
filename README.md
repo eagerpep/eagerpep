@@ -1,7 +1,8 @@
+![Urara](https://github.com/user-attachments/assets/9a3f94c9-db9a-41be-960b-f45a78fd6db7)
+
 ## Wsg Guys!
 ## I guess this is my first repo so I'm gonna talk a bit about myself.
 ## I currently studying computer science with the intent of getting into sysadmin. I barely know anything about networking, and I know I still have a lot to learn, but I'm excited to learn.
-![Urara](https://github.com/user-attachments/assets/9a3f94c9-db9a-41be-960b-f45a78fd6db7)
 
 <!--
 **eagerpep/eagerpep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
