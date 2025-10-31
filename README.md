@@ -7,8 +7,8 @@ I currently studying computer science with the intent of getting into sysadmin. 
 
 ## Here are some goals I'm aiming for in the mean time:
 - Learn some C++ before I begin that course
-- Create a home entertainment server that could hold and stream downloaded media (Integrate TMDB down the line)
-- Implement OpenGuard for DNS blocking with a raspberry pi.
+- Create a home entertainment server that could hold and stream downloaded media (Integrate [TMDB](https://developer.themoviedb.org/docs/getting-started) down the line)
+- Implement [AdGuard](https://adguard-dns.io/en/welcome.html) for DNS blocking with a raspberry pi.
 
 <!--
 **eagerpep/eagerpep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
