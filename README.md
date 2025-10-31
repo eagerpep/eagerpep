@@ -4,6 +4,11 @@
 ## I guess this is my first repo so I'm gonna talk a bit about myself.
 ## I currently studying computer science with the intent of getting into sysadmin. I barely know anything about networking, and I know I still have a lot to learn, but I'm excited to learn.
 
+## Here are some goals I'm aiming for in the mean time:
+## -Learn some C++ before I begin that course
+## -Create a home entertainment server that could hold and stream downloaded media (Integrate TMDB down the line)
+## -Implement OpenGuard for DNS blocking with a raspberry pi.
+
 <!--
 **eagerpep/eagerpep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
